@@ -1,9 +1,9 @@
 ## customer-segmentation-streamlit-application
 
-#### Streamlit Web App Link: https://csheroku3.herokuapp.com/ <br>
+
+### Streamlit Web App Link: https://csheroku3.herokuapp.com/ <br>
 
 <br>
-
 
 <br>
 
@@ -16,6 +16,3 @@
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/41443395/170888482-46d4322d-284a-440a-8c97-d92b3452b113.png">
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/41443395/170888497-480b7b0b-8ce0-473c-825f-c1532e883dee.png">
-
-
-
