@@ -4,10 +4,6 @@
 
 <br>
 
-<br>
-
-<br>
-
 ## Web app screenshots
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/41443395/170888392-e2ed5082-2652-486f-931b-a221c3366c3a.png">
