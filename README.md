@@ -1,4 +1,4 @@
-## Customer-segmentation-streamlit-application <br>
+## Customer-segmentation-ML-streamlit-application <br>
 
 ### Streamlit Web App Link: https://csheroku3.herokuapp.com/ <br>
 
